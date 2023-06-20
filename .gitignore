@@ -2,6 +2,8 @@
 /compile_commands.json
 *.swp
 .vscode/
+.venv
+third_party_generated/
 *audio_frontend*
 *google*
 *__pycache__*
